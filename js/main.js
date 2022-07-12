@@ -55,7 +55,7 @@ function playGame() {
         let obj
 
         if (this.className == "one") {
-            document.querySelector(".centrPlace").innerHTML = "Player  one makes step."
+            document.querySelector(".centrPlace").innerHTML = "Player  one makes step. Please click right panel."
 
             removeClassAttac()
 
